@@ -12,7 +12,7 @@ O projeto utiliza 12 arquivos `.csv` fictícios que foram disponibilizados como 
 Para carregar os dados, todos os arquivos foram baixados e importados individualmente dentro do BigQuery.
 
 ## :file_folder: Estrutura do projeto
-
+```
 meu-projeto-sql/
 ├── README.md ← Este arquivo
 ├── bases-projeto-final/ ← Arquivos .csv utilizados no projeto
@@ -31,3 +31,4 @@ meu-projeto-sql/
 ├── queries/ ← Consultas SQL para análise dos dados
 │ ├── construcao-query-principal.sql
 │ └── criacao-tabela-total-transfers.sql
+```
