@@ -14,8 +14,8 @@ Para carregar os dados, todos os arquivos foram baixados e importados individual
 ## :file_folder: Estrutura do projeto
 ```
 meu-projeto-sql/
-├── README.md ← Este arquivo
-├── bases-projeto-final/ ← Arquivos .csv utilizados no projeto
+├── README.md
+├── bases-projeto-final/
 │ ├── accounts.csv
 │ ├── city.csv
 │ ├── country.csv
@@ -28,7 +28,7 @@ meu-projeto-sql/
 │ ├── transfer_outs.csv
 │ ├── week.csv
 │ └── year.csv
-├── queries/ ← Consultas SQL para análise dos dados
+├── queries/
 │ ├── construcao-query-principal.sql
 │ └── criacao-tabela-total-transfers.sql
 ```
