@@ -5,7 +5,6 @@
 Este projeto é a conclusão do módulo de SQL do curso **EBA Analista** da professora Renata Biaggi.
 O objetivo é demonstrar habilidades em consultas e análises SQL utilizando o **Google BigQuery**.
 
----
 
 ## :game_die: **Base de dados**
 
@@ -13,7 +12,6 @@ O projeto utiliza 12 arquivos `.csv` fictícios que foram disponibilizados como 
 
 Todos os arquivos foram baixados e importados individualmente no Google BigQuery para realização das consultas.
 
----
 
 ## :file_folder: **Estrutura do projeto**
 ```
@@ -37,7 +35,6 @@ meu-projeto-sql/
 │ └── criacao-tabela-total-transfers.sql
 ```
 
----
 
 ## :hammer: **Construção da solução**
 
