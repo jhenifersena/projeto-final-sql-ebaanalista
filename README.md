@@ -55,3 +55,6 @@ Algumas colunas foram criadas ou transformadas para padronizar as informações 
 
 **5. Consolidação da tabela final**  
 Ao final, o resultado foi uma tabela chamada `total_transfers`, que consolida os dados de movimentações de entrada, saída e pix, e também informações sobre os clientes.
+
+![image](https://github.com/user-attachments/assets/7e0c4548-48dd-4cc2-a407-26b2667adec6)
+
